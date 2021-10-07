@@ -1,6 +1,10 @@
 # Lista de jogos 
 
-aqui é a lista de games
+aqui é a lista de games que amo
 
-- god of war
+-  God of War
+-  The Witcher
+-  GTA V
+- Call of Duty
+- 
 
